@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/classes" path="GULLIcore/src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="GULLIview/src">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="GULLIcore/dist/GULLIcore.jar"/>
+	<classpathentry kind="lib" path="GULLIcore/dist/lib/commons-dbcp-1.4.jar"/>
+	<classpathentry kind="lib" path="GULLIcore/dist/lib/ftp4j-1.7.2.jar"/>
+	<classpathentry kind="lib" path="GULLIcore/dist/lib/gt-api-11.0.jar"/>
+	<classpathentry kind="lib" path="GULLIcore/dist/lib/gt-data-13.5.jar"/>
+	<classpathentry kind="lib" path="GULLIcore/dist/lib/gt-epsg-wkt-11.5.jar"/>
+	<classpathentry kind="lib" path="GULLIcore/dist/lib/gt-geopkg-11.5.jar"/>
+	<classpathentry kind="lib" path="GULLIcore/dist/lib/gt-jdbc-11.5.jar"/>
+	<classpathentry kind="lib" path="GULLIcore/dist/lib/gt-main-11.0.jar"/>
+	<classpathentry kind="lib" path="GULLIcore/dist/lib/gt-metadata-11.0.jar"/>
+	<classpathentry kind="lib" path="GULLIcore/dist/lib/gt-opengis-11.0.jar"/>
+	<classpathentry kind="lib" path="GULLIcore/dist/lib/gt-referencing-11.0.jar"/>
+	<classpathentry kind="lib" path="GULLIcore/dist/lib/gt-shapefile-13.5.jar"/>
+	<classpathentry kind="lib" path="GULLIcore/dist/lib/jaybird-full-jdk17-4.0.0-beta-1.jar"/>
+	<classpathentry kind="lib" path="GULLIcore/dist/lib/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="GULLIcore/dist/lib/jmatio.jar"/>
+	<classpathentry kind="lib" path="GULLIcore/dist/lib/jna-4.4.0.jar"/>
+	<classpathentry kind="lib" path="GULLIcore/dist/lib/jsch-0.1.54.jar"/>
+	<classpathentry kind="lib" path="GULLIcore/dist/lib/jts-1.13.jar"/>
+	<classpathentry kind="lib" path="GULLIcore/dist/lib/mfl-core-0.5.6.jar"/>
+	<classpathentry kind="lib" path="GULLIcore/dist/lib/rGDB.jar"/>
+	<classpathentry kind="lib" path="GULLIcore/dist/lib/sqlite-jdbc-3.16.1.jar"/>
+	<classpathentry kind="lib" path="GULLIcore/lib/commons-dbcp-1.4.jar"/>
+	<classpathentry kind="lib" path="GULLIcore/lib/commons-pool-1.5.4.jar"/>
+	<classpathentry kind="lib" path="GULLIcore/lib/ftp4j-1.7.2.jar"/>
+	<classpathentry kind="lib" path="GULLIcore/lib/GISViewer.jar"/>
+	<classpathentry kind="lib" path="GULLIcore/lib/gt-api-11.0.jar"/>
+	<classpathentry kind="lib" path="GULLIcore/lib/gt-data-13.5.jar"/>
+	<classpathentry kind="lib" path="GULLIcore/lib/gt-epsg-wkt-11.5.jar"/>
+	<classpathentry kind="lib" path="GULLIcore/lib/gt-geopkg-11.5.jar"/>
+	<classpathentry kind="lib" path="GULLIcore/lib/gt-jdbc-11.5.jar"/>
+	<classpathentry kind="lib" path="GULLIcore/lib/gt-main-11.0.jar"/>
+	<classpathentry kind="lib" path="GULLIcore/lib/gt-metadata-11.0.jar"/>
+	<classpathentry kind="lib" path="GULLIcore/lib/gt-opengis-11.0.jar"/>
+	<classpathentry kind="lib" path="GULLIcore/lib/gt-referencing-11.0.jar"/>
+	<classpathentry kind="lib" path="GULLIcore/lib/gt-shapefile-13.5.jar"/>
+	<classpathentry kind="lib" path="GULLIcore/lib/jai_core-1.1.3.jar"/>
+	<classpathentry kind="lib" path="GULLIcore/lib/jaybird-full-jdk17-4.0.0-beta-1.jar"/>
+	<classpathentry kind="lib" path="GULLIcore/lib/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="GULLIcore/lib/jgridshift-1.0.jar"/>
+	<classpathentry kind="lib" path="GULLIcore/lib/jmatio.jar"/>
+	<classpathentry kind="lib" path="GULLIcore/lib/jna-4.4.0.jar"/>
+	<classpathentry kind="lib" path="GULLIcore/lib/jsch-0.1.54.jar"/>
+	<classpathentry kind="lib" path="GULLIcore/lib/jsr-275-1.0-beta-2.jar"/>
+	<classpathentry kind="lib" path="GULLIcore/lib/jts-1.13.jar"/>
+	<classpathentry kind="lib" path="GULLIcore/lib/mfl-core-0.5.6.jar"/>
+	<classpathentry kind="lib" path="GULLIcore/lib/rGDB.jar"/>
+	<classpathentry kind="lib" path="GULLIcore/lib/sqlite-jdbc-3.16.1.jar"/>
+	<classpathentry kind="lib" path="GULLIcore/lib/vecmath-1.3.2.jar"/>
+	<classpathentry kind="lib" path="GULLIview/lib/commons-dbcp-1.4.jar"/>
+	<classpathentry kind="lib" path="GULLIview/lib/commons-pool-1.5.4.jar"/>
+	<classpathentry kind="lib" path="GULLIview/lib/freehep-graphics2d-2.1.2.jar"/>
+	<classpathentry kind="lib" path="GULLIview/lib/freehep-graphicsio-2.1.2.jar"/>
+	<classpathentry kind="lib" path="GULLIview/lib/freehep-graphicsio-emf-2.1.2.jar"/>
+	<classpathentry kind="lib" path="GULLIview/lib/freehep-io-2.0.2.jar"/>
+	<classpathentry kind="lib" path="GULLIview/lib/freehep-util-2.0.2.jar"/>
+	<classpathentry kind="lib" path="GULLIview/lib/ftp4j-1.7.2.jar"/>
+	<classpathentry kind="lib" path="GULLIview/lib/GISViewer.jar"/>
+	<classpathentry kind="lib" path="GULLIview/lib/gt-api-11.0.jar"/>
+	<classpathentry kind="lib" path="GULLIview/lib/gt-data-13.5.jar"/>
+	<classpathentry kind="lib" path="GULLIview/lib/gt-epsg-wkt-11.5.jar"/>
+	<classpathentry kind="lib" path="GULLIview/lib/gt-geopkg-11.5.jar"/>
+	<classpathentry kind="lib" path="GULLIview/lib/gt-jdbc-11.5.jar"/>
+	<classpathentry kind="lib" path="GULLIview/lib/gt-main-11.0.jar"/>
+	<classpathentry kind="lib" path="GULLIview/lib/gt-metadata-11.0.jar"/>
+	<classpathentry kind="lib" path="GULLIview/lib/gt-opengis-11.0.jar"/>
+	<classpathentry kind="lib" path="GULLIview/lib/gt-referencing-11.0.jar"/>
+	<classpathentry kind="lib" path="GULLIview/lib/gt-shapefile-13.5.jar"/>
+	<classpathentry kind="lib" path="GULLIview/lib/itext-pdfa-5.5.1.jar"/>
+	<classpathentry kind="lib" path="GULLIview/lib/itext-xtra-5.5.1.jar"/>
+	<classpathentry kind="lib" path="GULLIview/lib/itextpdf-5.5.1.jar"/>
+	<classpathentry kind="lib" path="GULLIview/lib/jai_core-1.1.3.jar"/>
+	<classpathentry kind="lib" path="GULLIview/lib/jaybird-full-jdk17-4.0.0-beta-1.jar"/>
+	<classpathentry kind="lib" path="GULLIview/lib/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="GULLIview/lib/jfreechart-1.0.19.jar"/>
+	<classpathentry kind="lib" path="GULLIview/lib/jfreesvg-3.0.jar"/>
+	<classpathentry kind="lib" path="GULLIview/lib/jfreesvg-3.4.jar"/>
+	<classpathentry kind="lib" path="GULLIview/lib/jgridshift-1.0.jar"/>
+	<classpathentry kind="lib" path="GULLIview/lib/jmatio.jar"/>
+	<classpathentry kind="lib" path="GULLIview/lib/jna-4.4.0.jar"/>
+	<classpathentry kind="lib" path="GULLIview/lib/jsch-0.1.54.jar"/>
+	<classpathentry kind="lib" path="GULLIview/lib/jsr-275-1.0-beta-2.jar"/>
+	<classpathentry kind="lib" path="GULLIview/lib/jts-1.13.jar"/>
+	<classpathentry kind="lib" path="GULLIview/lib/rGDB.jar"/>
+	<classpathentry kind="lib" path="GULLIview/lib/sqlite-jdbc-3.16.1.jar"/>
+	<classpathentry kind="lib" path="GULLIview/lib/vecmath-1.3.2.jar"/>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
